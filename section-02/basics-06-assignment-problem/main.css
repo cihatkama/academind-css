@@ -1,0 +1,33 @@
+/* instruction 1 */
+body {
+    font-family: sans-serif;
+}
+
+
+/* instruction 3 */
+.highlighted-code {
+    color: green;
+}
+
+#assignment-instructions {
+    font-family: sans-serif;
+    color: blue;
+}
+
+/* instruction 2, 4 */
+code {
+    font-family: monospace;
+    color: red;
+}
+
+/* instruction 5,6 */
+li+li {
+    background: black;
+    color: white;
+}
+
+/* instruction 7 */
+ol li {
+    background: black;
+    color: white;
+}
