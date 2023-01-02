@@ -1,0 +1,25 @@
+
+.box {
+    padding: 5px 10px 6px 8px; 
+    margin: 10px 15px 8px 10px;
+    border: 2px red solid;
+
+    height: 300px;
+    width: 50%;
+    box-sizing: border-box;
+    display: inline-block;
+    margin: 0;
+
+}
+
+html, body {
+    height: 100%;
+}
+
+#first-box {
+    display: none;
+}
+
+div:last-of-type:hover {
+    border-color: yellow;
+}
